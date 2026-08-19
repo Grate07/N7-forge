@@ -1,4 +1,4 @@
-# ZYRE MC / N7 Cloud Ticket Bot
+# ZYRE MC / N7  Ticket Bot
 
 Complete Discord ticket bot source and support banner. The package can run directly on a Pterodactyl Node.js server.
 
