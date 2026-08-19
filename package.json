@@ -1,0 +1,11 @@
+{
+  "name": "@workspace/discord-ticket-bot",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node run.cjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
